@@ -1,4 +1,4 @@
-# Detecting Anythink at Photo
+# Detecting Anything at Photo
 ## Using DockerHub
 
 1. Pull the image from my repository:
